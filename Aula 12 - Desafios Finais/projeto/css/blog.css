@@ -1,0 +1,16 @@
+.publicacoes
+{
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.leia-mais
+{
+    font-size: 25px;
+    display: block;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 30px;
+    background-color: #E6E7E8;
+}
